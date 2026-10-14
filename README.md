@@ -9,6 +9,21 @@
 
 ---
 
+## 🖼️ Visual Highlights (Selected Maps & Spatial Models)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0539a7f7-f23c-4725-871d-77907c085936" alt="z1" width="32%" />
+  <img src="https://github.com/user-attachments/assets/038eb9f7-417c-4ad4-821e-faf05163b4ed" alt="z2" width="32%" />
+  <img src="https://github.com/user-attachments/assets/81287534-e1fa-4f10-be77-f52270ed8796" alt="z4" width="32%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e8794d73-3132-492d-9461-94be635ce083" alt="z5" width="32%" />
+  <img src="https://github.com/user-attachments/assets/b3996ac3-ee76-4ba6-8c79-7c4efc3a0e7f" alt="z6" width="32%" />
+  <img src="https://github.com/user-attachments/assets/d0323c8f-e3d5-489b-89e8-df3840d6a0c9" alt="z3" width="32%" />
+</p>
+
+---
+
 ## 🗺️ Project & Report Index (Quick PDF Links)
 
 | No. | Domain | Project / Documentation (Click to open PDF) | Core Tools & Data |
@@ -30,7 +45,7 @@
 - **Detailed Geological Map of the Szczawa Region – Zasadne Sheet (1:10,000) with Explanatory Notes** ([`Map PDF`](./01_Mapa_Geologiczna_Szczawa_Zasadne.pdf) | [`Notes PDF`](./02_Objasnienia_SMGP_Szczawa_Zasadne.pdf))
   * **Scope:** Field geological survey covering approx. $3.20\text{ km}^2$ in the Gorce Mountains (Bystrica Subunit of the Magura Nappe), integrated with real-time mobile data acquisition in **ArcGIS Field Maps**.
   * **Methodology & Results:** Digitization of outcrop observation points, strike and dip measurements, and lithostratigraphic boundaries (Upper Cretaceous to Lower Eocene: Białe, Szczawina, Ropianka with the Głębieniec Member, Łabowa, and Beloveža formations). Reconstruction of thrust-fold tectonics (the Zasadne thrust sheet overriding the Szczawa unit, dissected by 9 transverse strike-slip faults) and cartographic production in **ArcGIS Pro** over a LiDAR-derived hillshade relief model.
-- **Landslide Registration Card in Pietrzejowice ( Inventory No. 145 156)** ([`View PDF`](./03_Karta_Rejestracyjna_Osuwiska_Pietrzejowice.pdf))
+- **Landslide Registration Card in Pietrzejowice (Inventory No. 145 156)** ([`View PDF`](./03_Karta_Rejestracyjna_Osuwiska_Pietrzejowice.pdf))
   * **Scope:** Documentation of an active translational earth slide (area: $3.91\text{ ha}$, vertical relief: $35.8\text{ m}$) prepared in accordance with the Polish Landslide Counteracting System (SOPO) standards.
   * **Methodology & Results:** Vectorization of verified and inferred landslide boundaries, main scarps, and colluvial toes using a Digital Elevation Model (**Hillshade**) and high-resolution orthophotomaps, accompanied by field inspection of infrastructure damage.
 
